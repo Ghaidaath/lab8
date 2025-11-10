@@ -52,6 +52,8 @@ models.py:
 
 listbooks.html:
 
+<img width="960" height="540" alt="2025-11-10 (13)" src="https://github.com/user-attachments/assets/0e569238-4f7c-4de5-80df-f82f3d22f2b6" />
 
+<img width="960" height="540" alt="2025-11-10 (12)" src="https://github.com/user-attachments/assets/581863cc-36cb-4ed5-898f-87d6d533507d" />
 
 
